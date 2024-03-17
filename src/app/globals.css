@@ -22,9 +22,13 @@
   .smallScreensGallery {
     margin-left: -8rem; 
   }
+
+
   
 }
-
+ html {
+  overflow-x: hidden;
+ }
 
 body {  
   overflow-x: hidden;
