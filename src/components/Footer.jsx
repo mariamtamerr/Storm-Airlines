@@ -21,7 +21,7 @@ const Footer = () => {
     {/* <!-- End Col --> */}
 
     <div className="mt-3">
-      <p className="text-gray-200">We're part of the <a className="font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-400" href="#">Cystorm.Solutions</a> family.</p>
+      <p className="text-gray-200">We&apos;re part of the <a className="font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-400" href="#">Cystorm.Solutions</a> family.</p>
       <p className="text-gray-200">©Storm Airlines . 2024. All rights reserved.</p>
     </div>
 
